@@ -56,6 +56,7 @@ Netgen - Performs LVS Checks.
 We Run the synthesis stage using command **run_synthesis** the Results of synthesis are shown below
 ![r2](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/d0aa6a95-ce9b-48f2-b650-7daa48db934d)
 ![r3](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/7a46a4b8-b783-456f-bcb2-08debc1580a8)
+
 Flop Ratio : It is the ratio of number of D FF to Total number of cells
 1613/14876=0.1084 
 .i.e.. 10.84%
