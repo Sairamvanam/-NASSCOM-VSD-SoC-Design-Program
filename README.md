@@ -39,4 +39,8 @@ Magic - Streams out the final GDSII layout file from the routed def.
 
 **Checks**
 Magic - Performs DRC Checks & Antenna Checks
-Netgen - Performs LVS Checks
+Netgen - Performs LVS Checks.
+
+#### Invoking OpenLane
+![1](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/2fddacec-5aab-435b-9aaa-6f83a13635d1)
+
