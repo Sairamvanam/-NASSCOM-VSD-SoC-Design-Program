@@ -14,7 +14,7 @@ Yosys: Performs RTL synthesis using GTech mapping.
 abc: Conducts technology mapping to standard cells defined in the Process Design Kit (PDK). Various synthesis techniques can be adjusted using different integrated abc scripts.
 OpenSTA: Executes static timing analysis on the resulting netlist to generate timing reports.
 Fault: Implements scan-chain insertion for post-fabrication testing, supporting ATPG (Automatic Test Pattern Generation) and test patterns compaction.
-2.Floorplan and PDN
+**2.Floorplan and PDN**
 Init_fp - Defines the core area for the macro as well as the rows (used for placement) and the tracks (used for routing)
 Ioplacer - Places the macro input and output ports
 PDN - Generates the power distribution network
@@ -24,14 +24,14 @@ RePLace - Performs global placement
 Resizer - Performs optional optimizations on the design
 OpenPhySyn - Performs timing optimizations on the design
 OpenDP - Perfroms detailed placement to legalize the globally placed components
-3. CTS
+**3. CTS**
 TritonCTS - Synthesizes the clock distribution network
-4.Routing
+**4.Routing**
 FastRoute - Performs global routing to generate a guide file for the detailed router
 TritonRoute - Performs detailed routing from global routing guides
 SPEF-Extractor - Performs SPEF extraction that include parasitic information
-GDSII Generation
+**GDSII Generation**
 Magic - Streams out the final GDSII layout file from the routed def
-Checks
+**Checks**
 Magic - Performs DRC Checks & Antenna Checks
 Netgen - Performs LVS Checks
