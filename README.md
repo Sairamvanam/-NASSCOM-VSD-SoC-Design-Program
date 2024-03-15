@@ -54,8 +54,8 @@ Netgen - Performs LVS Checks.
  ![5](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/d4738d5e-6cc1-42ac-8b1b-4d15d234232f)
 
 We Run the synthesis stage using command **run_synthesis** the Results of synthesis are shown below
-
-![image](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/da146c8f-5297-4abe-9949-d0d0385cbfcf)
-
-![9](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/78abf4c1-77f0-48b8-962c-3f21ccc5ec9c)
-
+![r2](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/d0aa6a95-ce9b-48f2-b650-7daa48db934d)
+![r3](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/7a46a4b8-b783-456f-bcb2-08debc1580a8)
+Flop Ratio : It is the ratio of number of D FF to Total number of cells
+1613/14876=0.1084 
+.i.e.. 10.84%
