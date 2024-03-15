@@ -54,3 +54,6 @@ Netgen - Performs LVS Checks.
  ![5](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/d4738d5e-6cc1-42ac-8b1b-4d15d234232f)
 
 We Run the synthesis stage using command **run_synthesis**
+
+![9](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/78abf4c1-77f0-48b8-962c-3f21ccc5ec9c)
+
