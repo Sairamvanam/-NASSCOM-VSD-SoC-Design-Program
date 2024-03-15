@@ -53,7 +53,9 @@ Netgen - Performs LVS Checks.
  **note : ** To check the contents of the file we can use command **less** or **cat** before the file name i.e < **cat ** filename.extension >
  ![5](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/d4738d5e-6cc1-42ac-8b1b-4d15d234232f)
 
-We Run the synthesis stage using command **run_synthesis**
+We Run the synthesis stage using command **run_synthesis** the Results of synthesis are shown below
+
+![image](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/da146c8f-5297-4abe-9949-d0d0385cbfcf)
 
 ![9](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/78abf4c1-77f0-48b8-962c-3f21ccc5ec9c)
 
