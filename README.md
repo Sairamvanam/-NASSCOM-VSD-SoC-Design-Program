@@ -43,4 +43,9 @@ Netgen - Performs LVS Checks.
 
 #### Invoking OpenLane
 ![1](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/2fddacec-5aab-435b-9aaa-6f83a13635d1)
+##### list of  project  available Designs 
+![3](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/4b0e45f8-09a7-4d64-bc4a-85b8b8d3b7e5)
+![4](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/9f659de4-fd2a-437d-8620-9ef84514f737)
 
+###### Selecting  picorv32a Design and list of required files
+![5](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/d4738d5e-6cc1-42ac-8b1b-4d15d234232f)
