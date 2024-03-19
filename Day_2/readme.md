@@ -43,3 +43,5 @@ The prr placed cells are implemented Once and can re-use as many times required 
 ![Screenshot (122)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/2bbdd3cf-eb12-4db8-8c16-5376f248c9f5)
 ![Screenshot (125)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/a9c9f41c-35aa-482b-a626-1cee2808df13)
 
+# Steps to run Floorplan 
+
