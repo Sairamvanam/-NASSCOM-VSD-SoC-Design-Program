@@ -1,5 +1,6 @@
 #  Chip Floor Planning considerations
-### Define Width and height of core and die
+### Define Width and height of core and die 
+Initially we conmsider a netlist 
 ![image](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/66ba399f-a413-43fc-82e7-2d9330e032e2)
 ![Screenshot (85)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/f39ef017-9a36-473e-b7a8-49e198ff7901)
 ![Screenshot (86)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/c00e85f7-eb31-4d34-9810-d0ebb3590160)
@@ -10,10 +11,7 @@
 
 
 
-
 ### Utilization Factor
-![Screenshot (102)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/bac5660c-1259-4f2f-beb7-44325fb8215c)
-
 It is defined as the ratio of **area occupied by the netlist ** to **Total area of the core**.   
 generally, we mention U.F = 0.6 that means  60% is used for placing the cells and remaining 40% is used for routing purpose.
 If u.f = 1 ,then it means that core is completely occupied and addition of extra cells is not possible.
