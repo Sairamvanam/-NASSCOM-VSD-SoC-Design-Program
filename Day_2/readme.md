@@ -21,3 +21,5 @@ from above figure,
 U.F = 2 unitts X 2 units / 4 units X 2 units 
     = 4/8 => 0.5 
     =>50 %
+
+### 2. Concept of Pre-Placed Cells
