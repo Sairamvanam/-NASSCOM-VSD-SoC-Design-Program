@@ -16,5 +16,8 @@ If u.f = 1 ,then it means that core is completely occupied and addition of extra
 It is defined as ratio of Height and Width.
 Aspect Ratio decides the shape. If A.R =1 ,that signifies Square shape.If A.R is other than 1 It will be Rectangle.
 ![Screenshot (94)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/b3821c1f-3d50-4eec-8621-1a354e0659e4)
-
-
+![Screenshot (96)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/41834b1a-b766-4258-bf53-d7d3d2f17340)
+from above figure,
+U.F = 2 unitts X 2 units / 4 units X 2 units 
+    = 4/8 => 0.5 
+    =>50 %
