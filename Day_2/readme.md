@@ -26,3 +26,6 @@ U.F = 2 unitts X 2 units / 4 units X 2 units
 ![Screenshot (97)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/c2c90a2f-4640-423b-8b13-43578573cfe4)
 ![Screenshot (98)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/000beb37-dda0-42ed-b552-a0473bfecc3a)
 ![Screenshot (99)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/aa87324c-4712-402f-8af3-6e39c7456f45)
+
+The position of Pre -placed cells are fixed by the user.EDA tool cannot change the position of these cells and it cannot replace these cells automatically. These cells are placed before the PNR .
+The prr placed cells are implemented Once and can re-use as many times required in the design.
