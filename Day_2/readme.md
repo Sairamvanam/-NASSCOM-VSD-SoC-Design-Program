@@ -23,3 +23,6 @@ U.F = 2 unitts X 2 units / 4 units X 2 units
     =>50 %
 
 ### 2. Concept of Pre-Placed Cells
+![Screenshot (97)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/c2c90a2f-4640-423b-8b13-43578573cfe4)
+![Screenshot (98)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/000beb37-dda0-42ed-b552-a0473bfecc3a)
+![Screenshot (99)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/aa87324c-4712-402f-8af3-6e39c7456f45)
