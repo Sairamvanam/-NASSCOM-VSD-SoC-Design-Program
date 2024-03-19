@@ -29,8 +29,8 @@ This is an 5 Days Workshop on **Digital VLSI SoC Design and Planning program** U
 ### <a name="how-to-talk-to-Computers"></a>How to talk to Computers
 The board show here is an **Arduino UNO**.The VLSI industry lies in the processor which is high-lighted in the circle.The entire chip is reffered as 
  ![image](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/84f394cb-0516-4bf2-b30f-c9f28a6c5af5)
- **Package**.
-For any chip we have **pads**.These pads acts as an interface between the external signals and internal signals inside the chip.
+ 
+ **Package**.For any chip we have **pads**.These pads acts as an interface between the external signals and internal signals inside the chip.
 The **Core** is the place where our digital logic is placed.The place where the chip is manufactured is called as **Foundary**.
 ## About OpenLane 
 OpenLANE is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen, Fault, OpenPhySyn, SPEF-Extractor and custom methodology scripts for design exploration and optimization. It is a tool started for true open source tape-out experience and comes with APACHE version 2.0 . The goal of OpenLANE is to produce clean GDSII without any human intervention. OpenLANE is tuned for Skywater 130nm open-source PDK and can be used to produce hard macros and chips.
