@@ -27,8 +27,8 @@ This is an 5 Days Workshop on **Digital VLSI SoC Design and Planning program** U
 
 ## <a name="Day1---Introduction-to-open-source"></a>DAY1 - Introduction to open-source
 ### <a name="how-to-talk-to-Computers"></a>How to talk to Computers
-The board show here is an **Arduino UNO**.The VLSI industry lies in the processor which is high-lighted in the circle.The entire chip is reffered as                             **Package**.
-![image](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/84f394cb-0516-4bf2-b30f-c9f28a6c5af5)
+The board show here is an **Arduino UNO**.The VLSI industry lies in the processor which is high-lighted in the circle.The entire chip is reffered as **Package**.
+                     ![image](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/84f394cb-0516-4bf2-b30f-c9f28a6c5af5)
 For any chip we have **pads**.These pads acts as an interface between the external signals and internal signals inside the chip.
 The **Core** is the place where our digital logic is placed.The place where the chip is manufactured is called as **Foundary**.
 ## About OpenLane 
