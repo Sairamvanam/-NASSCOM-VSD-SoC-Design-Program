@@ -1,6 +1,6 @@
 # NASSCOM-VSD-SoC-Design-Program
-Workshop on Digital VLSI SoC Design and Planning program Using **Openlane **
-This workshop is for 5 days.The outcome of the workshop are as follows :
+This is an 5 Days Workshop on **Digital VLSI SoC Design and Planning program** Using **Openlane **.
+
 ## Table of Contents
 1. [DAY1 - Introduction to open-source](#Day1---Introduction-to-open-source)
     1. [How to talk to Computers](#how-to-talk-to-Computers)
