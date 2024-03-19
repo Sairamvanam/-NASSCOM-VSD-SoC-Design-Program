@@ -81,8 +81,7 @@ Magic - Streams out the final GDSII layout file from the routed def.
 Magic - Performs DRC Checks & Antenna Checks
 Netgen - Performs LVS Checks.
 
-### <a name="Open-source-EDA-tools"></a>Open-source EDA tools
-![1](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/2fddacec-5aab-435b-9aaa-6f83a13635d1)
+### <a name="Open-source-EDA-tools"></a>Open-source EDA tools ![1](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/2fddacec-5aab-435b-9aaa-6f83a13635d1)
 ##### list of  available project   
 ![3](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/4b0e45f8-09a7-4d64-bc4a-85b8b8d3b7e5)
 ![4](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/9f659de4-fd2a-437d-8620-9ef84514f737)
