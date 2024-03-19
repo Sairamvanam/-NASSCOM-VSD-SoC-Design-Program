@@ -38,7 +38,9 @@ The **Core** is the place where our digital logic is placed.The place where the 
 OpenLANE is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen, Fault, OpenPhySyn, SPEF-Extractor and custom methodology scripts for design exploration and optimization. It is a tool started for true open source tape-out experience and comes with APACHE version 2.0 . The goal of OpenLANE is to produce clean GDSII without any human intervention. OpenLANE is tuned for Skywater 130nm open-source PDK and can be used to produce hard macros and chips.
 For Implementation os ASIC design ,we require the following :
         i.RTL Designs
+       
         ii.PDK DATA
+        
         iii.EDA Tools
 
 ## OpenLAne ASIC Flow 
