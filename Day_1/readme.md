@@ -17,7 +17,8 @@ For Implementation os ASIC design ,we require the following :
         ii.PDK DATA
         
         iii.EDA Tools
-        ![Screenshot (71)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/a8bff690-f4ee-4607-8898-0b0feabd207f)
+       
+![Screenshot (71)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/a8bff690-f4ee-4607-8898-0b0feabd207f)
 ## OpenLAne ASIC Flow 
 ![Screenshot (77)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/9d01e39d-4aa3-4cea-aa5e-fcdf5ad9da0f)
 
