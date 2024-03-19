@@ -25,6 +25,9 @@ This is an 5 Days Workshop on **Digital VLSI SoC Design and Planning program** U
     2. [2.Power Distribution Network and routing](#2.Power)
     3. [3.TritonRoute Features](#3.TritonRoute)
 
+## <a name="Day1---Introduction-to-open-source"></a>DAY1 - Introduction to open-source
+### <a name="how-to-talk-to-Computers"></a>How to talk to Computers**
+
 ## About OpenLane 
 OpenLANE is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen, Fault, OpenPhySyn, SPEF-Extractor and custom methodology scripts for design exploration and optimization. It is a tool started for true open source tape-out experience and comes with APACHE version 2.0 . The goal of OpenLANE is to produce clean GDSII without any human intervention. OpenLANE is tuned for Skywater 130nm open-source PDK and can be used to produce hard macros and chips.
 
