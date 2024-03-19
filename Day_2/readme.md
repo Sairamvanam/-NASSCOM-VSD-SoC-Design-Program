@@ -31,5 +31,15 @@ The position of Pre -placed cells are fixed by the user.EDA tool cannot change t
 The prr placed cells are implemented Once and can re-use as many times required in the design.
 **black box :** we cannot see the internal circuit,we only know the input and output ports of the design.
 ### 3. Decoupling Capacitors
+![Screenshot (106)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/adefb33a-b3d9-419b-be20-a678d6cdd0dd)
+
 ### 4. Powerplanning
+![Screenshot (113)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/111780a6-fe9c-4271-9c7b-9fd4a559d5c2)
+
 ### 5. pin placement
+![Screenshot (117)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/773d8bd8-cd33-43b1-bbaa-7dbadc5e5356)
+![Screenshot (118)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/d89d3191-d02b-4dff-ab56-69a177eeca11)
+![Screenshot (119)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/46234b67-08e9-4ccf-90c4-2dd86f308abe)
+![Screenshot (122)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/2bbdd3cf-eb12-4db8-8c16-5376f248c9f5)
+![Screenshot (125)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/a9c9f41c-35aa-482b-a626-1cee2808df13)
+
