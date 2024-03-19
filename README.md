@@ -60,16 +60,16 @@ Ioplacer - Places the macro input and output ports
 PDN - Generates the power distribution network
 Tapcell - Inserts welltap and decap cells in the floorplan.
 
-**Placement** – Placement is done in two steps, one with global placement in which we place the designs across the chip, but they will not be legal placement with some standard cells overlapping each other, to fix this we perform a detailed placement which legalizes the design and ensures they fit in the standard cell rows
+**3.Placement** – Placement is done in two steps, one with global placement in which we place the designs across the chip, but they will not be legal placement with some standard cells overlapping each other, to fix this we perform a detailed placement which legalizes the design and ensures they fit in the standard cell rows
 RePLace - Performs global placement
 Resizer - Performs optional optimizations on the design
 OpenPhySyn - Performs timing optimizations on the design
 OpenDP - Perfroms detailed placement to legalize the globally placed components.
 
-**3. CTS**
+**4. CTS**
 TritonCTS - Synthesizes the clock distribution network.
 
-**4.Routing**
+**5.Routing**
 FastRoute - Performs global routing to generate a guide file for the detailed router
 TritonRoute - Performs detailed routing from global routing guides
 SPEF-Extractor - Performs SPEF extraction that include parasitic information.
