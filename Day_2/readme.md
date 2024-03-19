@@ -29,3 +29,4 @@ U.F = 2 unitts X 2 units / 4 units X 2 units
 
 The position of Pre -placed cells are fixed by the user.EDA tool cannot change the position of these cells and it cannot replace these cells automatically. These cells are placed before the PNR .
 The prr placed cells are implemented Once and can re-use as many times required in the design.
+**black box :** we cannot see the internal circuit,we only know the input and output ports of the design.
