@@ -1,4 +1,4 @@
-#  Chip Floor Planning considerations
+# 1. Chip Floor Planning considerations
 ### Define Width and height of core and die 
 ![image](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/66ba399f-a413-43fc-82e7-2d9330e032e2)
 ![Screenshot (85)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/f39ef017-9a36-473e-b7a8-49e198ff7901)
