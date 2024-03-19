@@ -26,7 +26,9 @@ This is an 5 Days Workshop on **Digital VLSI SoC Design and Planning program** U
     3. [3.TritonRoute Features](#3.TritonRoute)
 
 ## <a name="Day1---Introduction-to-open-source"></a>DAY1 - Introduction to open-source
-### <a name="how-to-talk-to-Computers"></a>How to talk to Computers**
+### <a name="how-to-talk-to-Computers"></a>How to talk to Computers
+The board show here is an **Arduino UNO**.The VLSI industry lies in the processor which is high-lighted in the circle.
+![image](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/84f394cb-0516-4bf2-b30f-c9f28a6c5af5)
 
 ## About OpenLane 
 OpenLANE is an automated RTL to GDSII flow based on several components including OpenROAD, Yosys, Magic, Netgen, Fault, OpenPhySyn, SPEF-Extractor and custom methodology scripts for design exploration and optimization. It is a tool started for true open source tape-out experience and comes with APACHE version 2.0 . The goal of OpenLANE is to produce clean GDSII without any human intervention. OpenLANE is tuned for Skywater 130nm open-source PDK and can be used to produce hard macros and chips.
