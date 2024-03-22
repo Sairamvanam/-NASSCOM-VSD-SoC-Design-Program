@@ -30,5 +30,5 @@ Output stage also consists of the GDSII file, LEF and extracted spice netlist fi
 ![Screenshot (158)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/bcf95f45-13b5-440a-a309-a78bd6477957)
 ![Screenshot (159)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/0f0645d8-a9f0-4986-a00c-acc60b9e2f55)
 ![Screenshot (163)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/b454710b-b295-4282-9f58-4445dee2de0b)
-![Uploading Screenshot (161).png…]()
+![Screenshot (161)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/0f52bc35-6b9e-493b-a9e2-d244ab69f9e9)
 ![Screenshot (162)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/33ee8a06-0e10-4e69-8104-82b7e3d1099c)
