@@ -5,8 +5,11 @@ A standard cell, refers to a pre-designed and characterized logic cell that perf
 Library consits of different cell with different functionality as-well-as different sizes and of different threshold voltages.
 ## Cell design Flow
 cell design flow is divided into 3 stages.These stages are:
+
 1.Inputs : These are the inputs that you need to design our Inverter.
+
 2.Design steps : Then finally we will design the Inverter.
+
 3.Output : Outputs of the inverter are the one that we actually use by the EDA tools.
 ![Screenshot (134)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/042bb1bf-4ea0-437b-ad39-01f2a33dc77f)
 ![Screenshot (139)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/61f60748-58df-4f5b-bd6e-ee5496690099)
