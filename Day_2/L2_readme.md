@@ -19,8 +19,8 @@ cell design flow is divided into 3 stages.These stages are:
  circuit design --->  In tis step we will implement the required functionality and prefer proper Pmos nad Nmos such that the library requirements are met.
  Layout design ---> In this step,after drawing cmos circuit, we place the transistors such that thet meet the euler's path.
  **eulers's path :** path which is only traced once.
+ ![Screenshot (144)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/6c607fc7-0e84-46d6-a6d4-6b409a08fe9f)
 ![Screenshot (149)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/8af8f79e-b808-4f9a-a96f-b8e52e75b3d6)
 ![Screenshot (147)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/06502be6-4c76-4a77-85e6-a57771f57c6d)
-![Screenshot (144)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/6c607fc7-0e84-46d6-a6d4-6b409a08fe9f)
 ![Screenshot (149)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/cd061976-0604-4975-abb7-1598edbd5d12)
 Output stage also consists of the GDSII file, LEF and extracted spice netlist file that helps in determining the Time, noise and power characterstics of the circuit.
