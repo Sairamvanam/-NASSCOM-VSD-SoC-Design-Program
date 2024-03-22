@@ -1,4 +1,4 @@
-##Cell Design and Characterization Flow
+## Cell Design and Characterization Flow
 A standard cell, refers to a pre-designed and characterized logic cell that performs a specific function. These cells are used as building blocks for designing more complex digital circuits. Standard cells are typically characterized by their functionality, timing characteristics, power consumption, and area. 
 ![Screenshot (131)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/0c782b64-cded-43d8-af1f-683be5b31f89)
 ![Screenshot (133)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/b7a008be-031b-4fe8-80f5-097baf31a434)
