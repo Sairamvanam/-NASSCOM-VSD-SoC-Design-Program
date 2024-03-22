@@ -1,4 +1,4 @@
-## Cell Design and Characterization Flow
+![Screenshot (154)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/4bc35ffd-0b1f-4b55-9b16-c2ddc268056e)## Cell Design and Characterization Flow
 A standard cell, refers to a pre-designed and characterized logic cell that performs a specific function. These cells are used as building blocks for designing more complex digital circuits. Standard cells are typically characterized by their functionality, timing characteristics, power consumption, and area. 
 ![Screenshot (131)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/0c782b64-cded-43d8-af1f-683be5b31f89)
 ![Screenshot (133)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/b7a008be-031b-4fe8-80f5-097baf31a434)
@@ -24,3 +24,11 @@ cell design flow is divided into 3 stages.These stages are:
 ![Screenshot (147)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/06502be6-4c76-4a77-85e6-a57771f57c6d)
 ![Screenshot (149)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/cd061976-0604-4975-abb7-1598edbd5d12)
 Output stage also consists of the GDSII file, LEF and extracted spice netlist file that helps in determining the Time, noise and power characterstics of the circuit.
+![Screenshot (150)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/e1c050e3-f798-4bfb-b1f1-eccc865a927a)
+![Screenshot (154)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/bfee0033-94ad-4269-9deb-2ce0e0464962)
+![Screenshot (157)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/28622c04-ea24-4e48-bffb-8f2d92c30a0b)
+![Screenshot (158)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/bcf95f45-13b5-440a-a309-a78bd6477957)
+![Screenshot (159)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/0f0645d8-a9f0-4986-a00c-acc60b9e2f55)
+![Screenshot (163)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/b454710b-b295-4282-9f58-4445dee2de0b)
+![Uploading Screenshot (161).png…]()
+![Screenshot (162)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/33ee8a06-0e10-4e69-8104-82b7e3d1099c)
