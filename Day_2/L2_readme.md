@@ -1,4 +1,4 @@
-## Cell Design and Characterization Flow
+![Screenshot (149)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/8af8f79e-b808-4f9a-a96f-b8e52e75b3d6)## Cell Design and Characterization Flow
 A standard cell, refers to a pre-designed and characterized logic cell that performs a specific function. These cells are used as building blocks for designing more complex digital circuits. Standard cells are typically characterized by their functionality, timing characteristics, power consumption, and area. 
 ![Screenshot (131)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/0c782b64-cded-43d8-af1f-683be5b31f89)
 ![Screenshot (133)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/b7a008be-031b-4fe8-80f5-097baf31a434)
@@ -16,4 +16,4 @@ cell design flow is divided into 3 stages.These stages are:
 ![Screenshot (140)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/3d8b748e-c773-4afe-9f68-fcc2878e5de9)
 ![Screenshot (147)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/06502be6-4c76-4a77-85e6-a57771f57c6d)
 ![Screenshot (144)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/6c607fc7-0e84-46d6-a6d4-6b409a08fe9f)
-![Uploading Screenshot (149).png…]()
+![Screenshot (149)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/cd061976-0604-4975-abb7-1598edbd5d12)
