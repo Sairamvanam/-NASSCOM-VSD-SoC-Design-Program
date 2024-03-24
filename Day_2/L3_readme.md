@@ -17,4 +17,9 @@ slew_high_fall_thr: points towards higher side of the power supply on output wav
 
 
 ### <a name="Propagation-delai-and-transition-time"></a>Propagation delai and transition time
-
+![Screenshot (173)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/a717c644-e822-4d56-8994-75d13d62128a)
+![Screenshot (174)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/b44f458d-0556-421b-85d1-4a3c490782b5)
+![Screenshot (175)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/1897bf65-1c1a-4e2a-a942-ac45e8d017aa)
+![Screenshot (176)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/0c7735b9-33a2-4aa1-b2cd-15a877a74d9a)
+![Screenshot (177)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/dfb54324-7ce9-4c47-b7cd-27542d56f9a5)
+![Screenshot (178)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/2a07b957-e8c5-4afc-b2c4-262b1f161e9e)
