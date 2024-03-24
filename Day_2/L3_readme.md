@@ -17,6 +17,15 @@ slew_high_fall_thr: points towards higher side of the power supply on output wav
 
 
 ### <a name="Propagation-delai-and-transition-time"></a>Propagation delai and transition time
+Rise delay =  time(out_rise_thr) - time(in_rise_thr)
+
+Fall Delay = time(out_fall_thr) - time(in_fall_thr)
+
+Rise transition time: time(slew_high_rise_thr) - time(slew_low_rise_thr)
+
+Fall transition time: time(slew_high_fall_thr) - time(slew_low_fall_thr)
+we need to take care of propagation delay ,if not it may leads to incorrect values.In certain conditions ,we have choosen the correct threshold values but dealy might be negative .the reason behind this the high wire delay.
+
 ![Screenshot (173)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/a717c644-e822-4d56-8994-75d13d62128a)
 ![Screenshot (174)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/b44f458d-0556-421b-85d1-4a3c490782b5)
 ![Screenshot (175)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/1897bf65-1c1a-4e2a-a942-ac45e8d017aa)
