@@ -23,3 +23,6 @@ slew_high_fall_thr: points towards higher side of the power supply on output wav
 ![Screenshot (176)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/0c7735b9-33a2-4aa1-b2cd-15a877a74d9a)
 ![Screenshot (177)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/dfb54324-7ce9-4c47-b7cd-27542d56f9a5)
 ![Screenshot (178)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/2a07b957-e8c5-4afc-b2c4-262b1f161e9e)
+![Screenshot (179)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/c1adeeff-10f3-4309-8a66-81be72dff9cf)
+![Screenshot (180)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/37e3aa14-3dbb-4385-91bd-83c107dd9559)
+![Screenshot (182)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/82a31bbd-9d9a-4d4e-88ca-76c41b172bd2)
