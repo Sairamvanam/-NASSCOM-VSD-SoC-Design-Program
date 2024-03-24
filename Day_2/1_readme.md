@@ -31,6 +31,7 @@ The position of Pre -placed cells are fixed by the user.EDA tool cannot change t
 The prr placed cells are implemented Once and can re-use as many times required in the design.
 **black box :** we cannot see the internal circuit,we only know the input and output ports of the design.
 ### 3. Decoupling Capacitors
+If there is a large distance between the power supply and a circuit in the design, there might be a voltage drop across the wire from Vdd to the circuit due to the resistance, inductance, and capacitance of the wire being used. This problem is solved using de-coupling capacitors.
 ![Screenshot (106)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/adefb33a-b3d9-419b-be20-a678d6cdd0dd)
 
 ### 4. Powerplanning
