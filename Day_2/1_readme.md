@@ -35,9 +35,14 @@ If there is a large distance between the power supply and a circuit in the desig
 ![Screenshot (106)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/adefb33a-b3d9-419b-be20-a678d6cdd0dd)
 
 ### 4. Powerplanning
+Power planning in chips ensures all parts get a steady voltage. It's like building a power grid on a tiny scale, with rings and grids delivering clean power and preventing glitches.
+The problem arises as the power supply is provided from one point.
+Solution:
+Instead of having a single power supply, we need to have multiple power supplies.
 ![Screenshot (113)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/111780a6-fe9c-4271-9c7b-9fd4a559d5c2)
 
 ### 5. pin placement
+Pin placement in chip design is a crucial step that impacts a chip's performance, manufacturability, and overall functionality. It involves strategically positioning the input/output (I/O) pins that connect the chip to the external world.Pin placement is a collaborative effort between chip designers, power planning engineers, and layout specialists. They work together to find the optimal balance between functionality, performance, and manufacturability.
 ![Screenshot (117)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/773d8bd8-cd33-43b1-bbaa-7dbadc5e5356)
 ![Screenshot (118)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/d89d3191-d02b-4dff-ab56-69a177eeca11)
 ![Screenshot (119)](https://github.com/Sairamvanam/-NASSCOM-VSD-SoC-Design-Program/assets/163321291/46234b67-08e9-4ccf-90c4-2dd86f308abe)
