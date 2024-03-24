@@ -1,6 +1,6 @@
 # NASSCOM-VSD-SoC-Design-Program
 This is an 5 Days Workshop on **Digital VLSI SoC Design and Planning program** Using **Openlane **.
-
+The objective of this workshop is to cover the complete RTL2GDS flow using the open-source flow OpenLane with SKY130nm PDK.
 ## List of concepts covered 
 1. [DAY1 - Introduction to open-source](#Day1---Introduction-to-open-source)
     1. [How to talk to Computers](#how-to-talk-to-Computers)
